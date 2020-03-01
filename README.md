@@ -1,2 +1,2 @@
 # firstrepo
-first repo on got hub
+first repo on git hub
